@@ -1,0 +1,130 @@
+Cluster 0
+ way
+ way arsenal
+ arsenal way
+ spurs
+ way spurs
+ ball
+ play
+ game
+ long
+ score
+
+
+Cluster 1
+ partey
+ thomas
+ thomas partey
+ goal
+ partey arsenal
+ goal arsenal
+ partey goal
+ goal thomas
+ thomas partey arsenal
+ goal partey
+
+
+Cluster 2
+ playing
+ arsenal playing
+ football
+ playing arsenal
+ playing good
+ arsenal playing good
+ good
+ playing beautiful
+ playing like
+ arsenal playing beautiful
+
+
+Cluster 3
+ tottenham
+ fans
+ goal
+ arsenal fans
+ good
+ game
+ let
+ come
+ arsenal tottenham
+ need
+
+
+Cluster 4
+ like
+ winning
+ arsenal winning
+ like arsenal
+ winning league
+ arsenal winning league
+ league
+ game
+ look like
+ arsenal like
+
+
+Cluster 5
+ kane
+ harry
+ harry kane
+ penalty
+ kane penalty
+ penalty arsenal
+ kane scores
+ scores
+ tottenham
+ goals
+
+
+Cluster 6
+ spurs
+ arsenal spurs
+ spurs arsenal
+ game
+ vs spurs
+ arsenal vs spurs
+ penalty
+ goal
+ vs
+ counter
+
+
+Cluster 7
+ link
+ vs tottenham
+ arsenal vs tottenham
+ arsenal vs
+ vs
+ tottenham
+ link link
+ tottenham link
+ vs tottenham link
+ tottenham link link
+
+
+Cluster 8
+ win
+ arsenal win
+ win league
+ league
+ win arsenal
+ arsenal win league
+ win today
+ want arsenal win
+ want arsenal
+ want
+
+
+Cluster 9
+ gabriel
+ team
+ arsenal team
+ fans
+ liability
+ arsenal fans
+ season
+ weak
+ gabriel arsenal
+ jesus
+
+

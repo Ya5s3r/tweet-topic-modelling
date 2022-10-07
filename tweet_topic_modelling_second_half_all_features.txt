@@ -1,0 +1,130 @@
+Cluster 0
+ look
+ arsenal look
+ look good
+ arsenal look good
+ look like
+ good
+ like
+ season
+ arsenal look like
+ look real
+
+
+Cluster 1
+ team
+ spurs
+ game
+ season
+ tottenham
+ like
+ fan
+ win
+ play
+ love
+
+
+Cluster 2
+ red
+ red card
+ card
+ london
+ tottenham
+ arsenal vs
+ vs
+ vs tottenham
+ arsenal vs tottenham
+ north
+
+
+Cluster 3
+ fans
+ arsenal fans
+ happy
+ fans happy
+ arsenal fans happy
+ hate
+ seeing
+ refs
+ xhaka
+ seeing arsenal fans
+
+
+Cluster 4
+ playing
+ arsenal playing
+ football
+ football club
+ arsenal football
+ club
+ arsenal football club
+ playing good
+ arsenal playing good
+ beautiful
+
+
+Cluster 5
+ man
+ arsenal man
+ man city
+ city
+ man utd
+ utd
+ man arsenal
+ man united
+ team
+ united
+
+
+Cluster 6
+ good
+ xhaka
+ granit
+ arsenal good
+ granit xhaka
+ goal
+ looking
+ xhaka arsenal
+ season
+ good arsenal
+
+
+Cluster 7
+ lead
+ giving
+ end
+ arsenal giving
+ arsenal lead
+ arsenal giving joy
+ giving joy
+ joy
+ end season
+ spurs
+
+
+Cluster 8
+ jesus
+ gabriel
+ gabriel jesus
+ jesus arsenal
+ goal
+ number
+ arsenal number
+ goal arsenal
+ believe jesus
+ arsenal tottenham
+
+
+Cluster 9
+ league
+ win
+ winning
+ arsenal winning
+ arsenal win
+ win league
+ winning league
+ arsenal winning league
+ arsenal win league
+ premier league
+
+
