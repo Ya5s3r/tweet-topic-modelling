@@ -1,0 +1,195 @@
+Cluster 0
+ game
+ tottenham
+ man
+ like
+ fan
+ win
+ love
+ let
+ arsenal fan
+ football
+
+
+Cluster 1
+ fans
+ arsenal fans
+ happy
+ fans happy
+ arsenal fans happy
+ hate
+ seeing
+ seeing arsenal fans
+ hate seeing
+ refs
+
+
+Cluster 2
+ team
+ arsenal team
+ super
+ super team
+ arsenal super
+ arsenal super team
+ beat
+ beat arsenal
+ beat arsenal super
+ united
+
+
+Cluster 3
+ season
+ arsenal season
+ season arsenal
+ xhaka
+ like
+ team
+ far
+ cooking
+ title
+ cooking season
+
+
+Cluster 4
+ red
+ card
+ red card
+ card arsenal
+ red card arsenal
+ emerson
+ royal
+ emerson royal
+ arsenal red
+ game
+
+
+Cluster 5
+ spurs
+ arsenal spurs
+ game
+ spurs arsenal
+ vs spurs
+ vs
+ like
+ arsenal vs spurs
+ win
+ half
+
+
+Cluster 6
+ arsenal vs tottenham
+ vs tottenham
+ arsenal vs
+ vs
+ tottenham
+ broadcast
+ vs tottenham hotspur
+ live
+ hotspur live
+ tottenham hotspur live
+
+
+Cluster 7
+ goal
+ goal arsenal
+ arsenal goal
+ jesus
+ xhaka
+ tottenham
+ xhaka goal
+ arsenal tottenham
+ goal jesus
+ need goal
+
+
+Cluster 8
+ league
+ win
+ winning
+ arsenal winning
+ arsenal win
+ win league
+ winning league
+ arsenal winning league
+ arsenal win league
+ arsenal league
+
+
+Cluster 9
+ good
+ arsenal good
+ good arsenal
+ look good
+ looking
+ playing good
+ look
+ looking good
+ arsenal playing good
+ arsenal look good
+
+
+Cluster 10
+ london
+ north
+ north london
+ london red
+ red
+ north london red
+ london derby
+ north london derby
+ derby
+ arsenal north
+
+
+Cluster 11
+ xhaka
+ granit
+ granit xhaka
+ xhaka arsenal
+ love
+ makes
+ xhaka makes
+ love granit
+ goal
+ xhaka scores
+
+
+Cluster 12
+ really
+ arsenal really
+ really good
+ good
+ season
+ arsenal really good
+ playing
+ arsenal really playing
+ really playing
+ cooking
+
+
+Cluster 13
+ jesus
+ gabriel
+ gabriel jesus
+ jesus arsenal
+ believe jesus
+ believe jesus arsenal
+ believe
+ number
+ arsenal number
+ jesus arsenal number
+
+
+Cluster 14
+ dey
+ arsenal dey
+ dey ball
+ arsenal dey ball
+ ball
+ dey play
+ dey hot
+ arsenal dey play
+ arsenal dey hot
+ hot
+
+

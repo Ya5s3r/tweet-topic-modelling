@@ -1,0 +1,195 @@
+Cluster 0
+ collect
+ standard
+ arsenal collect
+ kane
+ standard arsenal
+ penalty
+ collect arsenal
+ dem
+ standard penalty
+ kane penalty
+
+
+Cluster 1
+ goal
+ arsenal tottenham
+ tottenham
+ goal arsenal
+ arsenal goal
+ kane
+ tottenham hotspur
+ hotspur
+ arsenal tottenham hotspur
+ harry
+
+
+Cluster 2
+ london
+ north london
+ north
+ london derby
+ derby
+ north london derby
+ london red
+ red
+ thomas
+ partey
+
+
+Cluster 3
+ like
+ arsenal arsenal
+ like arsenal
+ arsenal arsenal arsenal
+ look like
+ arsenal like
+ playing like
+ playing
+ look
+ team
+
+
+Cluster 4
+ fans
+ arsenal fans
+ gabriel
+ win
+ kane
+ game
+ penalty
+ playing
+ arsenal win
+ season
+
+
+Cluster 5
+ vs tottenham
+ link
+ arsenal vs tottenham
+ arsenal vs
+ vs
+ tottenham
+ link link
+ tottenham link link
+ tottenham link
+ vs tottenham link
+
+
+Cluster 6
+ play
+ arsenal play
+ play arsenal
+ football
+ spurs
+ ball
+ game
+ like
+ play like
+ play football
+
+
+Cluster 7
+ let
+ let arsenal
+ arsenal let
+ come
+ boys
+ gunners
+ let gunners
+ let partey
+ let boys
+ win
+
+
+Cluster 8
+ team
+ arsenal team
+ super
+ super team
+ gabriel
+ arsenal super team
+ season
+ arsenal super
+ man
+ beat arsenal
+
+
+Cluster 9
+ spurs
+ arsenal spurs
+ spurs arsenal
+ game
+ vs spurs
+ arsenal vs spurs
+ penalty
+ goal
+ win
+ vs
+
+
+Cluster 10
+ partey
+ thomas
+ thomas parted
+ goal
+ partey arsenal
+ partey goal
+ goal thomas
+ thomas partey arsenal
+ goal thomas partey
+ lead
+
+
+Cluster 11
+ scores
+ scores arsenal
+ kane scores
+ partey scores
+ kane
+ partey scores arsenal
+ kane scores arsenal
+ partey
+ harry kane scores
+ thomas partey scores
+
+
+Cluster 12
+ arsenal dey
+ dey
+ arsenal dey ball
+ dey ball
+ ball
+ arsenal dey play
+ dey play
+ play
+ omo
+ omo arsenal dey
+
+
+Cluster 13
+ need
+ arsenal need
+ need arsenal
+ gabriel
+ spurs
+ humbling
+ spurs need
+ need goal
+ goal
+ need humbling
+
+
+Cluster 14
+ good
+ arsenal good
+ good start
+ start
+ start arsenal
+ good start arsenal
+ really good
+ really
+ playing good
+ looking
+
+
